@@ -6,9 +6,11 @@ textColor = "#000000"
 font = "sans serif"
 
 [server]
+headless = true
 enableCORS = false
 
 [client]
 showSidebarNavigation = false
 showFooter = false
 showToolbar = false
+
