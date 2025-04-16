@@ -1,0 +1,49 @@
+body {
+    background-color: #e8f5e9;
+}
+
+h1, h2, h3, .stTextInput > label {
+    color: #2e7d32;
+    font-family: "Segoe UI", sans-serif;
+}
+
+.stButton>button {
+    background-color: #66bb6a;
+    color: white;
+    border-radius: 12px;
+    padding: 0.5rem 1.5rem;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.header-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #66bb6a;
+    padding: 1rem;
+}
+
+.header-title-box {
+    border: 5px solid black;
+    padding: 0.5rem 1rem;
+    background-color: white;
+}
+
+.title-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+}
+
+.title-text {
+    width: 80%;
+    padding-right: 2rem;
+}
+
+.title-img {
+    width: 70%;
+    text-align: right;
+}
+
