@@ -114,10 +114,10 @@ def dashboard_page():
         "Fruits": 0.5,
         "Cereals": 0.4,
         "Vegetables": 0.9,
-        "Wheat/F": 0.5,  # Adjusting wheat to 0.5 kg per person
-        "Maize/F": 0.5,  # Adjusting maize to 0.5 kg per person
-        "Meat": 0.5,  # Adjusting meat to 0.5 kg per person
-        "Rice": 0.5  # Adjusting rice to 0.5 kg per person
+        "Wheat/F": 0.5,  
+        "Maize/F": 0.5,  
+        "Meat": 0.5,  
+        "Rice": 0.5  
     }
 
     food_base_values = {
